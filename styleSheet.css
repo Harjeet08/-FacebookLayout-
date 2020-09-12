@@ -1,0 +1,135 @@
+.container {
+
+}
+.facebook{
+  
+ height: 100px;
+ background-color: #5d86da;
+ margin-left: 20px;
+ margin-right: 20px;
+
+
+}
+.img{
+    padding-left: 140px;
+    padding-top: 18px;
+}
+th{
+ color: white;
+}
+
+.paragraphImg{
+    margin-left: 115px;
+    margin-top: 30px;
+
+}
+
+.box1{
+    text-align: -webkit-right;
+    right: 79px;
+    position: relative;
+    bottom: 80px;
+}
+
+.button{
+    position: relative;
+    top: 24px
+}
+.paragraph{
+    color: #0e385f;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 34px;
+    margin-left: 78px;
+    margin-top: 40px;
+    margin-left: 107px
+    width: 450px;
+    word-spacing: -1px;
+    padding-right: 162px
+}
+.box{
+    text-align: -webkit-right;
+    right: 79px;
+
+}.container2{
+    width: 60%;
+}
+.account{
+ text-align: -webkit-right;
+  right: 85px;
+  position: relative;
+  left: 639px;
+  bottom: 89px;
+  font-family: inherit;
+    font-size: 37px;
+ 
+}
+.account1{
+    width: 50%;
+    text-align: -webkit-right;
+    right: 79px;
+    
+}
+.quick{
+    text-align: -webkit-right;
+  right: 85px;
+  position: relative;
+  left: 362px;
+  bottom: 50px;
+
+  font-family: inherit;
+  font-size: 20px;
+
+}
+/* .form{
+    text-align: -webkit-right; 
+    right: 79px;
+    position: relative;
+    left: 455px;
+    bottom: 60px;
+    position: relative;
+    left: 423px;
+    top: 22px; */
+    
+}
+.box2{
+    text-align: -webkit-right;
+    right: 79px;
+    position: relative;
+    bottom: 80px;
+    left: 445px;
+    padding-left: 445px;
+}
+.bday{
+    font-style: inherit;
+    font-size: 30px;
+    position: relative;
+    left: 813px;
+    bottom: 210px;
+}
+.bdaybox{
+    margin-left: 19px;
+    width: 165px;
+    height: 28px;
+}
+.gender{
+    font-style: inherit;
+    font-size: 30px;
+    position: relative;
+    left: 813px;
+    bottom: 198px;
+}
+.subgender{
+    font-size: 20px;
+    margin-top: 9px;
+}
+.signup{
+    width: 110px;
+    position: relative;
+    top: 61px;
+    right: 165px;
+    height: 38px;
+    background-color: yellowgreen;
+}
+.signup:hover {
+   
